@@ -1,0 +1,14 @@
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\EscapeMines.exe
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\EscapeMines.deps.json
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\EscapeMines.runtimeconfig.json
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\EscapeMines.runtimeconfig.dev.json
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\EscapeMines.dll
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\EscapeMines.pdb
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.AssemblyInfoInputs.cache
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.AssemblyInfo.cs
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.dll
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.pdb
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\obj\Debug\netcoreapp3.1\EscapeMines.genruntimeconfig.cache
+C:\Users\Farid\source\repos\EscapeMines\EscapeMines\bin\Debug\netcoreapp3.1\Data\file.txt
